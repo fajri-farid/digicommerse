@@ -1,3 +1,3 @@
 # Digicommerce
 
-Project digicommerce Batch IV
+Project digicommerce 
